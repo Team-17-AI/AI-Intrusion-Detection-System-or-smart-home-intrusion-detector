@@ -34,7 +34,10 @@ Our system solves this by combining **PIR motion sensing** with **YOLOv11-powere
 
 https://github.com/user-attachments/assets/8bbbb58d-54ea-41c9-8d21-b560de2b8d6e
 
-https://github.com/user-attachments/assets/91a01513-0dd9-449c-
+
+
+https://github.com/user-attachments/assets/f886ecc5-b01f-422d-ab0f-0b9c546ce3b5
+
 
 https://github.com/user-attachments/assets/f4f966f9-ec80-46f0-8d61-d8f3c69ed0d0
 
