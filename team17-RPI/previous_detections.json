@@ -1,0 +1,62 @@
+[
+    {
+        "timestamp": "2025-06-07 13:58:18",
+        "gif_path": "snapshots/gif_20250607_135818.gif",
+        "representative_jpg_path": "snapshots/_0607_135818_frame_1.jpg",
+        "all_jpg_paths": [
+            "snapshots/_0607_135818_frame_1.jpg",
+            "snapshots/_0607_135818_frame_2.jpg",
+            "snapshots/_0607_135818_frame_3.jpg",
+            "snapshots/_0607_135818_frame_4.jpg"
+        ],
+        "caption": "Intrusion Alert: Person Detected (Cooldown)"
+    },
+    {
+        "timestamp": "2025-06-07 13:58:15",
+        "gif_path": "snapshots/gif_20250607_135814.gif",
+        "representative_jpg_path": "snapshots/_0607_135814_frame_1.jpg",
+        "all_jpg_paths": [
+            "snapshots/_0607_135814_frame_1.jpg",
+            "snapshots/_0607_135814_frame_2.jpg",
+            "snapshots/_0607_135814_frame_3.jpg",
+            "snapshots/_0607_135814_frame_4.jpg"
+        ],
+        "caption": "Intrusion Alert: Person Detected (Cooldown)"
+    },
+    {
+        "timestamp": "2025-06-07 13:57:22",
+        "gif_path": "snapshots/gif_20250607_135721.gif",
+        "representative_jpg_path": "snapshots/_0607_135721_frame_1.jpg",
+        "all_jpg_paths": [
+            "snapshots/_0607_135721_frame_1.jpg",
+            "snapshots/_0607_135721_frame_2.jpg",
+            "snapshots/_0607_135721_frame_3.jpg",
+            "snapshots/_0607_135721_frame_4.jpg"
+        ],
+        "caption": "\ud83d\udea8 Intrusion Alert: Person Detected!"
+    },
+    {
+        "timestamp": "2025-06-07 13:53:38",
+        "gif_path": "snapshots/gif_20250607_135338.gif",
+        "representative_jpg_path": "snapshots/_0607_135338_frame_1.jpg",
+        "all_jpg_paths": [
+            "snapshots/_0607_135338_frame_1.jpg",
+            "snapshots/_0607_135338_frame_2.jpg",
+            "snapshots/_0607_135338_frame_3.jpg",
+            "snapshots/_0607_135338_frame_4.jpg"
+        ],
+        "caption": "Intrusion Alert: Person Detected (Cooldown)"
+    },
+    {
+        "timestamp": "2025-06-07 13:53:34",
+        "gif_path": "snapshots/gif_20250607_135334.gif",
+        "representative_jpg_path": "snapshots/_0607_135334_frame_1.jpg",
+        "all_jpg_paths": [
+            "snapshots/_0607_135334_frame_1.jpg",
+            "snapshots/_0607_135334_frame_2.jpg",
+            "snapshots/_0607_135334_frame_3.jpg",
+            "snapshots/_0607_135334_frame_4.jpg"
+        ],
+        "caption": "Intrusion Alert: Person Detected (Cooldown)"
+    }
+]

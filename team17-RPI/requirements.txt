@@ -1,0 +1,10 @@
+streamlit>=1.24.0
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+Pillow
+requests             # For simple Telegram API calls
+python-dotenv        # Optional: for managing .env files if you prefer
+torch>=2.0.0
+picamera2>=0.3.12
+numpy>=1.24.0
+gpiozero
